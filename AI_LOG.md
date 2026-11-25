@@ -1,0 +1,4 @@
+- Công cụ hỗ trợ: ChatGPT, Gemini.
+- Phần hỗ trợ: gợi ý cấu trúc nội dung, bố cục giao diện, HTML5/CSS3/JavaScript và rà soát checklist.
+- Phần người học chịu trách nhiệm: lựa chọn đề tài, điều chỉnh nội dung, kiểm tra mã nguồn, chạy thử và hoàn thiện báo cáo.
+- Không sử dụng nội dung mã nguồn có bản quyền của bên thứ ba.
